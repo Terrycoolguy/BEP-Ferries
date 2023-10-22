@@ -14,8 +14,13 @@ The repository contains organized directories for each social media platform, ea
   
 - **Google**: Focuses on extracting reviews and ratings from Google Maps related to ferry services across various locations in the Netherlands, providing both quantitative ratings and qualitative insights. The scraper used is gaspa93's Google scraper, unmodified from the original. Visit the original project at [gaspa93's Google Maps Scraper](https://github.com/gaspa93/googlemaps-scraper).
 
+Additionally, the repository includes two other directories:
 
+- **Data Preprocessing**: This directory contains scripts and tools used to preprocess the raw data collected from social media platforms. Data preprocessing is an essential step to clean, format, and prepare the data for further analysis.
 
+- **Sentiment Analysis**: In this directory, you'll find scripts and notebooks for conducting sentiment analysis on the collected data. Sentiment analysis helps assess the emotional tone and sentiment expressed in the social media posts and comments related to ferry services.
+
+Feel free to explore these directories for more details and tools related to data preprocessing and sentiment analysis.
 
 ## Usage
 
